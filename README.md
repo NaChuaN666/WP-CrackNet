@@ -5,4 +5,4 @@ DeepCrack dataset and training weights: https://pan.baidu.com/s/1j-3nfVFv-hzRC8i
 
 Trian the code: python train_deepcrack_260613.py
 
-Test the code: seg_test_deepcrack_260615.py
+Test the code: python seg_test_deepcrack_260615.py
